@@ -1,9 +1,6 @@
 # Cover for the legendary Commodore C64 Expansions Port ( Cartridge Game port )
 
 
-<p align="center">
-  <img src="cover0.png">
-</p>
 
 
 <code>
@@ -21,6 +18,12 @@
 <code>
  - when LEDs are off, nothing can be seen
 </code> 
+
+<p align="center">
+  <img src="cover0.png">
+</p>
+
+#
 
 
 <p align="center">
