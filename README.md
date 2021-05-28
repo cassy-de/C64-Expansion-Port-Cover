@@ -8,7 +8,11 @@
 
 <code>
  - print upside down, 10% - 2ß% infill
+</code>
+<code>
  - only two top layers, so LEDs can shine trough
+</code>
+<code>
  - when LEDs are off, nothing can be seen
 </code> 
 
