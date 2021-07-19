@@ -39,12 +39,17 @@
 
 <p align="center">
   <img src="cover4.png">
-<<<<<<< HEAD
 </p>
 
 <code>
 You can print it in two colours, if You like.  
+</code> 
+
+<code>
 Here the top is white, while the rest is black.  
+</code> 
+
+<code>
 And 16 RGB-LEDs, two stripes of 8 LEDs each.  
 </code> 
 
