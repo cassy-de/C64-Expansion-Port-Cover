@@ -29,6 +29,24 @@
   <img src="cover4.png">
 </p>
 
+<code>
+You can print it in two colours, if You like.
+Here the top is white, while the rest is black.
+And 16 RGB-LEDs, two stripes of 8 LEDs each.
+</code> 
+
+<p align="center">
+  <img src="cover7.png">
+</p>
+
+<p align="center">
+  <img src="cover8.png">
+</p>
+
+<p align="center">
+  <img src="cover9.png">
+</p>
+
 
 
 Have fun ;-)
